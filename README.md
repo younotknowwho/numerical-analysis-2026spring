@@ -1,2 +1,4 @@
-# numerical-analysis-2026spring
-Experimental homework codes for Numerical Analysis in 2026 spring
+# Numerical Analysis homework codes
+
+This repository contains codes for programming assignments of Numerical Analysis course, for reference only.
+
